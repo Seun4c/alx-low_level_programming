@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+
 /**
  * main - Prints a series of numbers with commas
  *
@@ -22,6 +21,5 @@ int main(void)
 	}
 
 	putchar('\n');
-
 	return (0);
 }
