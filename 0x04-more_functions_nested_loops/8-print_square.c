@@ -4,6 +4,7 @@
 /**
  * print_square - prints squares
  * @size: parameter
+ *
  * Return: returns nothing
  */
 
