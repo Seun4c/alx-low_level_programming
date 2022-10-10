@@ -1,11 +1,11 @@
-#ifndef DOG.H
-#define DOG.H
+#ifndef DOG_H
+#define DOG_H
 /**
  * struct dog - Dog
  * @name: name of the dog
  * @age: the age of the dog
  * @owner: owner of the dog
- * desc: header file
+ * Desc: header file
  */
 typedef struct dog
 { 
